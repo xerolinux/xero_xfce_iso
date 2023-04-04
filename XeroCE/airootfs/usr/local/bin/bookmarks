@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sed -i "s/xero/$USER/g" ~/.config/gtk-3.0/bookmarks
+
+rm ~/.config/autostart/setbookmarks.desktop
