@@ -187,9 +187,9 @@ scanner-support
 abs
 xerowelcome
 calamares-app
-calamares-x-cfg-dev
-xero-x-config-dev
+xero-xfce-config
 xero-fix-scripts
+calamares-xfce-cfg
 xerolinux-mirrorlist
 
 #######################################################
@@ -288,7 +288,6 @@ dracula-cursors-git
 catppuccin-cursors-mocha
 catppuccin-gtk-theme-mocha
 kvantum-theme-catppuccin-git
-ant-dracula-kvantum-theme-git
 
 ### System Utilities
 
