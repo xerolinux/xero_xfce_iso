@@ -70,7 +70,7 @@ Now that we have build environment on our system, it's time to build it.
 cd ~/xero_x_iso/ && abs -c
 ```
 
-Follow the prompts and you good to go...
+When prompted for profile type `XeroCE`... Then follow rest of prompts..
 
 I hope this helps.. In case of other issues kindly find me on [**Discord**](https://discord.gg/Xg6T78ahtK)
 
