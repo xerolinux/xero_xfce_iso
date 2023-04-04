@@ -28,4 +28,5 @@ file_permissions=(
   ["/usr/local/bin/all-cores"]="0:0:755"
   ["/usr/local/bin/xerolinux-final"]="0:0:755"
   ["/usr/local/bin/services"]="0:0:755"
+  ["/usr/local/bin/bookmarks"]="0:0:755"
   )

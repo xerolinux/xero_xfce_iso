@@ -175,10 +175,6 @@ xf86-input-synaptics
 libinput_gestures_qt
 xf86-input-elographics
 
-## wifi
-rtl88x2bu-dkms-git
-broadcom-wl-dkms
-
 ### Printers & Scanner support
 
 hplip-plugin
@@ -191,8 +187,8 @@ scanner-support
 abs
 xerowelcome
 calamares-app
-calamares-x-cfg
-xero-xfce-config
+calamares-x-cfg-dev
+xero-x-config-dev
 xero-fix-scripts
 xerolinux-mirrorlist
 
@@ -213,6 +209,7 @@ bash-completion
 #######################################################
 
 cryptsetup
+auto-cpufreq
 brightnessctl
 mkinitcpio-firmware
 power-profiles-daemon
@@ -243,6 +240,7 @@ gtk-update-icon-cache
 ### Applications
 
 jq
+gksu
 gmrun
 figlet
 ostree
@@ -260,14 +258,11 @@ bat-extras
 
 ### Fonts
 
-ttf-rubik
 asian-fonts
-ttf-microns
 ttf-fira-code
 otf-libertinus
 tex-gyre-fonts
 ttf-hack-nerd
-montserrat-ttf
 ttf-jetbrains-mono
 ttf-ubuntu-font-family
 awesome-terminal-fonts
@@ -276,21 +271,24 @@ adobe-source-sans-pro-fonts
 
 ### Theme Tools
 
+rofi
 qt5ct
 plank
+polybar
 kvantum
 neofetch
+picom-ibhagwan-git
 
 ### Rice/Config Related
 
 plank-themes
 xfce-backgrounds
 dracula-icons-git
-dracula-gtk-theme
 dracula-cursors-git
-tela-purple-icon-theme-git
+catppuccin-cursors-mocha
+catppuccin-gtk-theme-mocha
+kvantum-theme-catppuccin-git
 ant-dracula-kvantum-theme-git
-dracula-colors-xfce4-terminal
 
 ### System Utilities
 
@@ -352,6 +350,7 @@ archey3
 fuseiso
 gettext
 gparted
+catfish
 node-gyp
 intltool
 hw-probe
@@ -483,6 +482,7 @@ topgrade
 libpamac
 pamac-gtk
 pamac-cli
+appimagelauncher
 libpamac-flatpak-plugin
 
 #######################################################
@@ -533,17 +533,26 @@ xfce4-clipman-plugin
 xfce4-sensors-plugin
 xfce4-battery-plugin
 xfce4-cpufreq-plugin
-thunar-archive-plugin
 xfce4-cpugraph-plugin
-xfce4-docklike-plugin
 xfce4-diskperf-plugin
 xfce4-time-out-plugin
 xfce4-mailwatch-plugin
 xfce4-pulseaudio-plugin
 xfce4-systemload-plugin
 xfce4-whiskermenu-plugin
-thunar-media-tags-plugin
 xfce4-smartbookmark-plugin
+
+### Thunar GFile Manager
+
+thunar-volman
+thunar-extended
+thunar-vcs-plugin
+thunar-shares-plugin
+thunar-secure-delete
+thunar-custom-actions
+thunar-media-tags-plugin
+thunar-archive-plugin-zstd
+
 
 ### Display Manager
 
@@ -558,15 +567,15 @@ vlc
 zip
 htop
 p7zip
-discord
 gparted
 viewnior
 engrampa
 audacious
 flameshot
 kirigami2
+superpaper
 thunderbird
-libreoffice-fresh
+lxappearance
 gnome-disk-utility
 
 ### Others
