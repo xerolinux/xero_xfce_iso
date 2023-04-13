@@ -16,11 +16,11 @@ terminal-border: "0"
   top = 39%
   width = 60%
   height = 65%
-  item_font = "Ubuntu Regular 20"
+  item_font = "Lithos Pro 30"
   item_color = "#ffffff"
-  selected_item_color = "#d85f44"
-  icon_width = 40
-  icon_height = 40
+  selected_item_color = "#f3ebae"
+  icon_width = 45
+  icon_height = 45
   item_icon_space = 20
   item_height = 40
   item_padding = 2
@@ -37,6 +37,6 @@ terminal-border: "0"
   align = "center"
   id = "__timeout__"
   text = "Selected OS will start in %d seconds"
-  color = "#50fa7b"
+  color = "#f3ebae"
   font = "Ubuntu Regular 20"
 }
