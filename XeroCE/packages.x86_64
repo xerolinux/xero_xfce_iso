@@ -283,11 +283,8 @@ picom-ibhagwan-git
 
 plank-themes
 xfce-backgrounds
-dracula-icons-git
-dracula-cursors-git
-catppuccin-cursors-mocha
-catppuccin-gtk-theme-mocha
-kvantum-theme-catppuccin-git
+kanagawa-gtk-theme-git
+tela-circle-icon-theme-brown-git
 
 ### System Utilities
 

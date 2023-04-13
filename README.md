@@ -6,7 +6,3 @@
 
 <h1 align="center">!!! Do not Build !!!!<br />
                        Official Release date May 15th 2023</h1>
-
-<p align="center">
-    <img width="100%" src="https://i.imgur.com/ZRV75N6.png" alt="logo">
-</p>
