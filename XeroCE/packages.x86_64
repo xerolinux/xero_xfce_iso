@@ -271,13 +271,10 @@ adobe-source-sans-pro-fonts
 
 ### Theme Tools
 
-rofi
 qt5ct
 plank
-polybar
 kvantum
 neofetch
-picom-ibhagwan-git
 
 ### Rice/Config Related
 
@@ -569,9 +566,6 @@ engrampa
 audacious
 flameshot
 kirigami2
-superpaper
-thunderbird
-lxappearance
 gnome-disk-utility
 
 ### Others
