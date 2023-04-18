@@ -61,7 +61,7 @@ Now that we have build environment on our system, it's time to build it.
 cd ~/xero_x_iso/ && abs -xf
 ```
 
-Follow the prompts, answer with either `y` or `n` when asked if you want to keep build/source directory, and `n` when aksed if you want to modify profile settings, finally just input the date you are building ISO on, as I will ask about this in case of issues...
+Follow the prompts, answer with either `y` or `n` when asked if you want to keep build/source directory, and `n` when aksed if you want to modify profile settings as this is intended for me, finally just input the date you are building ISO on, as I will ask about this in case of issues...
 
 I hope this helps.. In case of other issues kindly find me on [**Discord**](https://discord.gg/Xg6T78ahtK)
 
