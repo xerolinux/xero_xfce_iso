@@ -27,9 +27,9 @@
 
 ### Step 1 - Get Repo in to build :
 
-Before we get started we will need to get the **ABS** repo in, that's where the new build tool is located. To do so need to edit the "pacman.conf". Use either methods to do so :
+Before we get started we will need to get the **ABS** repo in, that's where the new build tool is located. To do so need to edit the "pacman.conf". Here's how to do so :
 
-Type the following command using `sudo` in terminal done !
+Type the following command in terminal done !
 
 ```
 sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/keyaedisa/valen_repo/trunk/install/addRepo2PacmanConf.sh)"
