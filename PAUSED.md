@@ -58,13 +58,10 @@ Now that we have build environment on our system, it's time to build it.
 
 **Build ISO :**
 ```
-cd ~/xero_x_iso/ && abs -c
+cd ~/xero_x_iso/ && abs -xf
 ```
 
-- When prompted for profile type `XeroCE`
-- When prompted for Output folder has to be `/home/username/XFCE-Out/`
-- When prompted for Build folder has to be `/home/username/XFCE-Build/`
-
+Follow the prompts, answer with either `y` or `n` when asked if you want to keep build/source directory, and `n` when aksed if you want to modify profile settings, finally just input the date you are building ISO on, as I will ask about this in case of issues...
 
 I hope this helps.. In case of other issues kindly find me on [**Discord**](https://discord.gg/Xg6T78ahtK)
 
