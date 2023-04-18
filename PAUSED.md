@@ -14,7 +14,7 @@
 > - KaOS (Limited Repos)
 > - Artix (No Systemd)
 -----------------------------------------------------------------
-### Note
+### How to get ISO
 > This here, is a Spin, not to be confused with the KDE flagship. A Spin is a side-project not main one. Building it yourselves, is currently the *only* way to get it for *Free*. However, an ISO will be made available, to all who donate on any of,
 > [**Ko-Fi**](https://ko-fi.com/xerolinux) // [**FundRazr**](https://fnd.us/523mC5) or [**LiberaPay**](https://liberapay.com/DarkXero/). <sup>[**`Why Paid ?`**](https://github.com/xerolinux/xero_xfce_iso/blob/main/support.md)</sup>
 -----------------------------------------------------------------
@@ -22,6 +22,8 @@
 <p align="center">
     <img width="600" src="https://i.imgur.com/ZRV75N6.png" alt="logo">
 </p>
+
+<h1 align="center">Skip to Step 2 if you are on XeroLinux</h1>
 
 ### Step 1 - Get Repo in to build :
 
