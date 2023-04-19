@@ -10,7 +10,7 @@ Repo for the **XeroXFCE** Project. Feel free to go through files and learn how i
 
 <h3 align="center">||| Note |||<br />
 Not all *Arch* based Distros are supported.<br />
-Tool was tested on Arch/XeroLinux/ArcoLinux & EndeavourOS.<br />
+Tool was tested on <a href="https://archlinux.org">Arch</a>/<a href="https://xerolinux.xyz">XeroLinux</a>/<a href="https://https://arcolinux.com/">ArcoLinux</a> & <a href="https://endeavouros.com/">EndeavourOS</a>.<br />
 Please report any issues with **ABS** tool on dev's Github over <a href="https://github.com/keyaedisa/abs/issues">Here</a>.
 </h3>
 
