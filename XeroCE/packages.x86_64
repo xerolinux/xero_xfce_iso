@@ -546,6 +546,12 @@ thunar-custom-actions
 thunar-media-tags-plugin
 thunar-archive-plugin-zstd
 
+### GlobalMenu Shit
+
+appmenu-gtk-module
+vala-panel-appmenu-xfce-git
+vala-panel-appmenu-common-git
+vala-panel-appmenu-registrar-git
 
 ### Display Manager
 
