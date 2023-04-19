@@ -7,10 +7,9 @@
 <h1 align="center">Must be on an *Arch* based Distro to build ISO.</h1>
 
 <h2 align="center">Note :<br /> Not all of them are supported.<br />
-
+Tool was tested on XeroLinux/ArcoLinux and EndeavourOS.
 Please do not report it if it doesn't work on the Distro you rare on.<br />
-
-Tool was tested on XeroLinux/ArcoLinux and EndeavourOS.</h2>
+</h2>
 
 ### How to get ISO
 > This here, is a Spin, not to be confused with the KDE flagship. A Spin is a side-project not main one. Building it yourselves, is currently the *only* way to get it for *Free*. However, an ISO will be made available, to all who donate on any of,
