@@ -8,7 +8,7 @@
 
 <h3 align="center">||| Note |||<br />
 Not all *Arch* based Distros are supported.<br />
-Tool was tested on XeroLinux/ArcoLinux and EndeavourOS.<br />
+Tool was tested on Arch/XeroLinux/ArcoLinux & EndeavourOS.<br />
 Please do not report it if it doesn't work on the Distro you rare on.<br />
 </h3>
 
