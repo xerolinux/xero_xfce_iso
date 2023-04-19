@@ -6,7 +6,8 @@
 
 <h1 align="center">Must be on an *Arch* based Distro to build ISO.</h1>
 
-<h3 align="center">||| Note |||<br /> Not all of them are supported.<br />
+<h3 align="center">||| Note |||<br />
+Not all *Arch* based Distros are supported.<br />
 Tool was tested on XeroLinux/ArcoLinux and EndeavourOS.<br />
 Please do not report it if it doesn't work on the Distro you rare on.<br />
 </h3>
