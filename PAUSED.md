@@ -6,7 +6,11 @@
 
 <h1 align="center">You must be on an *Arch* based Distro to build ISO.</h1>
 
-<p style="text-align:center"> Not all *Arch* based Distros are supported... </p>
+<p align="center">
+
+Not all *Arch* based Distros are supported...
+
+</p>
 
 ### How to get ISO
 > This here, is a Spin, not to be confused with the KDE flagship. A Spin is a side-project not main one. Building it yourselves, is currently the *only* way to get it for *Free*. However, an ISO will be made available, to all who donate on any of,
