@@ -1,5 +1,7 @@
 # XeroXFCE ISO Repo
 
+Repo for the **XeroXFCE** Project. Feel free to go through files and learn how it's all done. To build ISO need to use **ABS** Script via guide below.
+
 <p align="center">
     <img width="300" src="https://i.imgur.com/QWqMIsr.png" alt="logo">
 </p>
