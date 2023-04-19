@@ -20,7 +20,7 @@
 -----------------------------------------------------------------
 
 <p align="center">
-    <img width="100%" src="https://i.imgur.com/ZRV75N6.png" alt="logo">
+    <img width="100%" src="https://i.imgur.com/raPQ8bJ.jpeg" alt="logo">
 </p>
 
 <h1 align="center">Skip to Step 2 if you are on XeroLinux</h1>
