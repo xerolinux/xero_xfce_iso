@@ -9,7 +9,7 @@
 <h3 align="center">||| Note |||<br />
 Not all *Arch* based Distros are supported.<br />
 Tool was tested on Arch/XeroLinux/ArcoLinux & EndeavourOS.<br />
-Please report any issues with **ABS** tool on dev's Github over [Here](https://github.com/keyaedisa/abs/issues).
+Please report any issues with **ABS** tool on dev's Github over <a href="https://github.com/keyaedisa/abs/issues">Here</a>.
 </h3>
 
 ### How to get ISO
