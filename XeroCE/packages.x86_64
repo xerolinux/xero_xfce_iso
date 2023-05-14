@@ -381,7 +381,6 @@ gst-plugins-ugly
 ## Pipewire Audio
 
 pavucontrol
-wireplumber
 pipewire-jack
 pipewire-support
 lib32-pipewire-jack
