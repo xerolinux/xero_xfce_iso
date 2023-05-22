@@ -368,6 +368,7 @@ gnome-disk-utility
 appmenu-gtk-module
 hardcode-fixer-git
 extra-cmake-modules
+power-profiles-daemon
 
 ### G-Streamer
 
