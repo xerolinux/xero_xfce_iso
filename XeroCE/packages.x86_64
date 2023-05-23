@@ -380,6 +380,7 @@ gst-plugins-ugly
 
 ## Pipewire Audio
 
+wireplumber
 pavucontrol
 pipewire-jack
 pipewire-support
