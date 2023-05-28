@@ -8,6 +8,7 @@ Name=eth*
 
 [Network]
 DHCP=yes
+MulticastDNS=yes
 IPv6PrivacyExtensions=yes
 
 [DHCPv4]

@@ -34,10 +34,12 @@ ethtool
 exfatprogs
 f2fs-tools
 fatresize
+foot-terminfo
 fd
 fsarchiver
 gnu-netcat
 gpart
+gparted
 gpm
 gptfdisk
 hdparm
@@ -114,6 +116,7 @@ usb_modeswitch
 usbmuxd
 usbutils
 vpnc
+wezterm-terminfo
 wireguard-tools
 wireless-regdb
 wireless_tools
@@ -150,9 +153,12 @@ logrotate
 
 mesa
 autorandr
+mesa-utils
 xf86-video-qxl
+xf86-video-vesa
 xf86-video-fbdev
 xf86-video-vmware
+qemu-hw-display-qxl
 xf86-video-openchrome
 
 ### Input
@@ -209,7 +215,6 @@ bash-completion
 #######################################################
 
 cryptsetup
-auto-cpufreq
 brightnessctl
 mkinitcpio-firmware
 power-profiles-daemon
@@ -263,7 +268,6 @@ ttf-fira-code
 otf-libertinus
 tex-gyre-fonts
 ttf-hack-nerd
-ttf-jetbrains-mono
 ttf-ubuntu-font-family
 awesome-terminal-fonts
 ttf-jetbrains-mono-nerd
@@ -295,6 +299,7 @@ w3m
 yad
 zip
 xdo
+alsi
 inxi
 meld
 wget
@@ -445,6 +450,7 @@ ffmpegthumbnailer
 
 ### Python & Libs
 
+python-pip
 python-cffi
 python-numpy
 python-docopt

@@ -6,6 +6,7 @@ Name=wl*
 
 [Network]
 DHCP=yes
+MulticastDNS=yes
 IPv6PrivacyExtensions=yes
 
 [DHCPv4]
