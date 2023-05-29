@@ -48,7 +48,7 @@ sudo pacman -S git
 ```
 **Grab Build Env.**
 ```
-cd ~ && git clone https://github.com/XeroLinuxDev/xero_xfce_iso.git
+cd ~ && git clone https://github.com/xerolinux/xero_xfce_iso.git
 ```
 
 ### Step 3 - Building the XeroXFCE ISO :
