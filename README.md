@@ -19,7 +19,7 @@ Please report any issues with **ABS** tool on dev's Github over <a href="https:/
 > [**Ko-Fi**](https://ko-fi.com/xerolinux) // [**FundRazr**](https://fnd.us/523mC5) or [**LiberaPay**](https://liberapay.com/DarkXero/). <sup>[**`Why Paid ?`**](https://github.com/xerolinux/xero_xfce_iso/blob/main/support.md)</sup>
 
 <p align="center">
-    <img width="100%" src="https://i.imgur.com/raPQ8bJ.jpeg" alt="logo">
+    <img width="100%" src="https://i.imgur.com/Pmz8bfI.jpg" alt="logo">
 </p>
 
 <h1 align="center">Skip to Step 2 if you are on XeroLinux</h1>
