@@ -481,8 +481,8 @@ yay-bin
 flatpak
 topgrade
 libpamac
-pamac-gtk
 pamac-cli
+pamac-gtk3
 appimagelauncher
 libpamac-flatpak-plugin
 
