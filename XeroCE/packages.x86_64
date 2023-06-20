@@ -253,6 +253,7 @@ okular
 flatseal
 numlockx
 lm_sensors
+samba-support
 appstream-glib
 #systemd-manager-git
 
