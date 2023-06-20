@@ -48,12 +48,6 @@ sed -i "s/#RebootWatchdogSec=10min/RebootWatchdogSec=30s/g" /etc/systemd/system.
 sed -i "s/#DefaultTimeoutStopSec=90s/DefaultTimeoutStopSec=5s/g" /etc/systemd/system.conf
 sed -i "s/#DefaultTimeoutStartSec=90s/DefaultTimeoutStartSec=10s/g" /etc/systemd/system.conf
 
-echo "Applying Flatpak GTK Overrides"
-echo "#################################"
-sudo flatpak override --filesystem=$HOME/.themes
-sudo flatpak override --filesystem=xdg-config/gtk-3.0:ro
-sudo flatpak override --filesystem=xdg-config/gtk-4.0:ro
-
 echo "Fixing LightDM.conf User"
 echo "#################################"
 sed -i "s/autologin-user=liveuser/#autologin-user=/g" /etc/lightdm/lightdm.conf
