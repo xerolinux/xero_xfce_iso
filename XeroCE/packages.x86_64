@@ -139,6 +139,7 @@ exa
 ntp
 most
 wget
+albert
 dialog
 repoctl
 haveged
@@ -253,6 +254,7 @@ okular
 flatseal
 numlockx
 lm_sensors
+qalculate-gtk
 samba-support
 appstream-glib
 #systemd-manager-git
