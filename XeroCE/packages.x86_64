@@ -482,7 +482,7 @@ flatpak
 topgrade
 libpamac
 pamac-cli
-pamac-gtk3
+pamac-gtk
 appimagelauncher
 libpamac-flatpak-plugin
 
