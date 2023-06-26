@@ -24,6 +24,9 @@ if [ -d "$HOME/.local/bin" ] ;
   then PATH="$HOME/.local/bin:$PATH"
 fi
 
+# Path to your emacs installation.
+export PATH="$HOME/.config/emacs/bin:$PATH"
+
 # Path to bat config
 export BAT_CONFIG_PATH="~/.config/bat/config.conf"
 
