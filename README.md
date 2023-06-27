@@ -62,6 +62,10 @@ cd ~/xero_xfce_iso/ && abs -xf
 
 Follow the prompts, answer with either `y` or `n` when asked if you want to keep build/source directory, and `n` when aksed if you want to modify profile settings as this is intended for me, finally just input the date you are building ISO on, as I will ask about this in case of issues...
 
+### Support
+
+A lot of hard work, sleepless nights wento into the creation of this awesome & detailed build tool, so if you can show the dev [@Keyaedisa](https://github.com/keyaedisa/) the same love you are showing the project, please feel free to buy them a a coffee or two over at [BuyMeaCoffee](https://www.buymeacoffee.com/keyaedisa).
+
 I hope this helps.. In case of other issues kindly find me on [**Discord**](https://discord.gg/Xg6T78ahtK)
 
 Happy building
