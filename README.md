@@ -64,7 +64,7 @@ Follow the prompts, answer with either `y` or `n` when asked if you want to keep
 
 ### Support
 
-A lot of hard work, sleepless nights wen into the creation of this awesome & detailed build tool, so if you can show the dev [@Keyaedisa](https://github.com/keyaedisa/) the same love you are showing the project, please feel free to [Buy them a Coffee](https://www.buymeacoffee.com/keyaedisa) or two.
+A lot of hard work, and sleepless nights went into the creation of this awesome & detailed build tool, so if you can show the dev [@Keyaedisa](https://github.com/keyaedisa/) the same love you are showing the project, please feel free to [Buy them a Coffee](https://www.buymeacoffee.com/keyaedisa) or two.
 
 I hope this helps.. In case of other issues kindly find me on [**Discord**](https://discord.gg/Xg6T78ahtK)
 
