@@ -215,6 +215,7 @@ bash-completion
 ###    PACKAGES THAT ARE BY TECHXERO ~ DARKXERO     ###
 #######################################################
 
+vnanorc
 cryptsetup
 brightnessctl
 mkinitcpio-firmware
