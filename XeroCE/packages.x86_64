@@ -142,7 +142,6 @@ wget
 albert
 dialog
 repoctl
-haveged
 dnsutils
 logrotate
 
