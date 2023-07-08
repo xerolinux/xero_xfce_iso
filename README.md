@@ -16,7 +16,7 @@ Please report any issues with **ABS** tool on dev's Github over <a href="https:/
 
 ## How to get ISO
 
-> This here, is a Spin, not to be confused with the KDE flagship. A Spin is a side-project not main one. Building it yourselves, is currently the *only* way to get it following the guide below, that way you always have the latest version available as of build time. However, we still need your help & support to keep project alive, so if you can please, show the project some love, scroll down for more info on how you can help.
+> This here, is a Spin, not to be confused with the KDE flagship. A Spin is a side-project not main one. As of next month (August 12th 2023) building it yourselves, will currently the *only* way to get it, following the guide below, that way you always have the latest version available as of build time. However, we still need your help & support to keep project alive, so if you can please, show the project some love, scroll down for more info on how you can help.
 
 <p align="center">
     <img width="100%" src="https://i.imgur.com/86Q3kVf.jpg" alt="logo">
