@@ -16,7 +16,7 @@ Please report any issues with **ABS** tool on dev's Github over <a href="https:/
 
 ## How to get ISO
 
-> This here, is a Spin, not to be confused with the KDE flagship. A Spin is a side-project not main one. Building it yourselves, is currently the *only* way to get it following the guide below. that way you always have the latest version available as of build time. However, we still need your help & support to keep project alive, so if you can please, show the project some love, scroll down for more info on how you can help.
+> This here, is a Spin, not to be confused with the KDE flagship. A Spin is a side-project not main one. Building it yourselves, is currently the *only* way to get it following the guide below, that way you always have the latest version available as of build time. However, we still need your help & support to keep project alive, so if you can please, show the project some love, scroll down for more info on how you can help.
 
 <p align="center">
     <img width="100%" src="https://i.imgur.com/86Q3kVf.jpg" alt="logo">
@@ -66,7 +66,9 @@ Follow the prompts, answer with either `y` or `n` when asked if you want to keep
 
 A lot of hard work, and sleepless nights went into the creation of this awesome Ditro/Spin & build tool, with the current situation, in **Lebanon**, not being so great, geting only 4 hours of Government provided electricity, and 98% currency devaluation, among many other problems, I am limited on time & reources, with no other means of income to keep the Generator power running for longer than absolutely necessary as well as to cover server fees for hosting the sites and repos, I solely rely on your generous contributions. Any amount will go a long way making sure the project continues to thrive. So if you can please show me, the main Dev/Maintainer some love on [**Ko-Fi**](https://ko-fi.com/xerolinux) or [**Patreon**](https://patreon.com/xerolinux) or by becoming a [**Github Sponsor**](https://github.com/sponsors/xerolinux).
 
-Also if you can, also show the rest of team the same love, you would the project, that would be highly appreaciated, by buying [**Keyaedisa**](https://github.com/keyaedisa/) the creator & maintainer of the awesome **ABS** build tool we use to give birth to all our ISOs, a [Coffee](https://www.buymeacoffee.com/keyaedisa) or two. As well as [**TeddyBearKilla**](https://github.com/TeddyBearKilla) our resident UI/UX specialist, on [**Ko-Fi**](https://ko-fi.com/teddybearkilla).. Thank you much. *May You Live Long & Prosper*...
+Also if you can, also show the rest of team the same love, you would the project, that would be highly appreaciated, by buying [**Keyaedisa**](https://github.com/keyaedisa/) the creator & maintainer of the awesome **ABS** build tool we use to give birth to all our ISOs, a [**Coffee**](https://www.buymeacoffee.com/keyaedisa) or two. As well as [**TeddyBearKilla**](https://github.com/TeddyBearKilla) our resident UI/UX specialist, on [**Ko-Fi**](https://ko-fi.com/teddybearkilla).. Thank you much.
+
+*May You Live Long & Prosper*...
 
 I hope this helps.. In case of other issues kindly find me on [**Discord**](https://discord.gg/Xg6T78ahtK)
 
