@@ -15,8 +15,8 @@ Please report any issues with **ABS** tool on dev's Github over <a href="https:/
 </h3>
 
 ### How to get ISO
-> This here, is a Spin, not to be confused with the KDE flagship. A Spin is a side-project not main one. Building it yourselves, is currently the *only* way to get it for *Free*. However, an ISO will be made available, to all who donate on any of,
-> [**Ko-Fi**](https://ko-fi.com/xerolinux) // [**FundRazr**](https://fnd.us/523mC5) or [**LiberaPay**](https://liberapay.com/DarkXero/). <sup>[**`Why Paid ?`**](https://github.com/xerolinux/xero_xfce_iso/blob/main/support.md)</sup>
+
+> This here, is a Spin, not to be confused with the KDE flagship. A Spin is a side-project not main one. Building it yourselves, is currently the *only* way to get it following the guide below. that way you always have the latest version available as of build time. However, we still need your help & support to keep project alive, so if you can please, if you can show the project some love, scroll down for more info on how you can help.
 
 <p align="center">
     <img width="100%" src="https://i.imgur.com/86Q3kVf.jpg" alt="logo">
@@ -64,7 +64,9 @@ Follow the prompts, answer with either `y` or `n` when asked if you want to keep
 
 ### Support
 
-A lot of hard work, and sleepless nights went into the creation of this awesome & detailed build tool, so if you can show the dev [@Keyaedisa](https://github.com/keyaedisa/) the same love you are showing the project, please feel free to [Buy them a Coffee](https://www.buymeacoffee.com/keyaedisa) or two.
+A lot of hard work, and sleepless nights went into the creation of this awesome Ditro & build tool, and the current situation, in **Lebanon**, not being so great, with up to 4 hours of Government provided electricity, and 98% currency devaluation, among many other problems, I am limited on time & reources, with no other means of income to keep the Generator power running for longer than absolutely necessary as well as to cover server fees for hosting the sites and repos, therefore I solely rely on your generous contributions. Any amount will go a long way making sure the project continues to thrive. So if you can please show me, the main Dev/Maintainer some love on [**Ko-Fi**](https://ko-fi.com/xerolinux) or [**Patreon**](https://patreon.com/xerolinux) or by becoming a [**Github Sponsor**](https://github.com/sponsors/xerolinux).
+
+Also if you show the rest of team the same love that would be highly appreaciated, buying [@Keyaedisa](https://github.com/keyaedisa/) the creator & maintainer of the awesome **ABS** build tool we use to give birth to all our ISOs, a [Coffee](https://www.buymeacoffee.com/keyaedisa) or two. As well as [@TeddyBearKilla](https://github.com/TeddyBearKilla) our resident UI/UX specialist, on [**Ko-Fi**](https://ko-fi.com/teddybearkilla).. Thanks.
 
 I hope this helps.. In case of other issues kindly find me on [**Discord**](https://discord.gg/Xg6T78ahtK)
 
