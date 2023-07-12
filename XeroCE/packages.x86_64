@@ -252,6 +252,7 @@ okular
 flatseal
 numlockx
 lm_sensors
+checkbashisms
 qalculate-gtk
 samba-support
 appstream-glib

@@ -148,18 +148,12 @@ echo
 echo "################################################################## "
 tput setaf 2
 echo "Phase 4 :"
-echo "- Deleting any files in /etc/skel"
-echo "- Getting the last version of bashrc in /etc/skel"
 echo "- Removing the old packages.x86_64 file from build folder"
 echo "- Copying the new packages.x86_64 file to the build folder"
 echo "- Add our own personal repo + add your packages to packages-personal-repo.x86_64"
 tput sgr0
 echo "################################################################## "
 echo
-
-	echo "Deleting any files in /etc/skel"
-	rm -rf $buildFolder/XeroCE/airootfs/etc/skel/.* 2> /dev/null
-	echo
 
 	echo "Removing the old packages.x86_64 file from build folder"
 	rm $buildFolder/XeroCE/packages.x86_64
